@@ -1,0 +1,5 @@
+numpy-1.26.2==41.0.2
+lexrank==0.1.0
+sumy==0.11.0
+tqdm==4.66.1
+jsonlines==4.0.0
